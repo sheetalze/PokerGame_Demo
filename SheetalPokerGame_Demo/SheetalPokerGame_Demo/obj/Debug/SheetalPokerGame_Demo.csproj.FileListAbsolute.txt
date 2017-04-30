@@ -1,0 +1,5 @@
+C:\Users\ssaxena\Desktop\Sheetal Work\poker\Sheetal Code Poker\SheetalPokerGame_Demo\SheetalPokerGame_Demo\bin\Debug\SheetalPokerGame_Demo.exe.config
+C:\Users\ssaxena\Desktop\Sheetal Work\poker\Sheetal Code Poker\SheetalPokerGame_Demo\SheetalPokerGame_Demo\bin\Debug\SheetalPokerGame_Demo.exe
+C:\Users\ssaxena\Desktop\Sheetal Work\poker\Sheetal Code Poker\SheetalPokerGame_Demo\SheetalPokerGame_Demo\bin\Debug\SheetalPokerGame_Demo.pdb
+C:\Users\ssaxena\Desktop\Sheetal Work\poker\Sheetal Code Poker\SheetalPokerGame_Demo\SheetalPokerGame_Demo\obj\Debug\SheetalPokerGame_Demo.exe
+C:\Users\ssaxena\Desktop\Sheetal Work\poker\Sheetal Code Poker\SheetalPokerGame_Demo\SheetalPokerGame_Demo\obj\Debug\SheetalPokerGame_Demo.pdb
